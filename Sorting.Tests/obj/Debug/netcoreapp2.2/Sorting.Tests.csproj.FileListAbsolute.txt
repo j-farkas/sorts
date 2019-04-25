@@ -1,0 +1,17 @@
+/Users/Guest/Desktop/Sorting.Solution/Sorting.Tests/obj/Debug/netcoreapp2.2/Sorting.Tests.csprojAssemblyReference.cache
+/Users/Guest/Desktop/Sorting.Solution/Sorting.Tests/obj/Debug/netcoreapp2.2/Sorting.Tests.csproj.CoreCompileInputs.cache
+/Users/Guest/Desktop/Sorting.Solution/Sorting.Tests/obj/Debug/netcoreapp2.2/Sorting.Tests.AssemblyInfoInputs.cache
+/Users/Guest/Desktop/Sorting.Solution/Sorting.Tests/obj/Debug/netcoreapp2.2/Sorting.Tests.AssemblyInfo.cs
+/Users/Guest/Desktop/Sorting.Solution/Sorting.Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/Guest/Desktop/Sorting.Solution/Sorting.Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/Guest/Desktop/Sorting.Solution/Sorting.Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/Guest/Desktop/Sorting.Solution/Sorting.Tests/bin/Debug/netcoreapp2.2/Sorting.Tests.deps.json
+/Users/Guest/Desktop/Sorting.Solution/Sorting.Tests/bin/Debug/netcoreapp2.2/Sorting.Tests.runtimeconfig.json
+/Users/Guest/Desktop/Sorting.Solution/Sorting.Tests/bin/Debug/netcoreapp2.2/Sorting.Tests.runtimeconfig.dev.json
+/Users/Guest/Desktop/Sorting.Solution/Sorting.Tests/bin/Debug/netcoreapp2.2/Sorting.Tests.dll
+/Users/Guest/Desktop/Sorting.Solution/Sorting.Tests/bin/Debug/netcoreapp2.2/Sorting.Tests.pdb
+/Users/Guest/Desktop/Sorting.Solution/Sorting.Tests/bin/Debug/netcoreapp2.2/Sorting.dll
+/Users/Guest/Desktop/Sorting.Solution/Sorting.Tests/bin/Debug/netcoreapp2.2/Sorting.pdb
+/Users/Guest/Desktop/Sorting.Solution/Sorting.Tests/obj/Debug/netcoreapp2.2/Sorting.Tests.csproj.CopyComplete
+/Users/Guest/Desktop/Sorting.Solution/Sorting.Tests/obj/Debug/netcoreapp2.2/Sorting.Tests.dll
+/Users/Guest/Desktop/Sorting.Solution/Sorting.Tests/obj/Debug/netcoreapp2.2/Sorting.Tests.pdb
